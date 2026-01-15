@@ -1,6 +1,6 @@
 # CatBoost
 catboost_info/
-
+Sun_position/Datasets/dataset_reg
 # Python
 __pycache__/
 *.pyc
