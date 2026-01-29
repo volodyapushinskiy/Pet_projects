@@ -44,5 +44,5 @@ https://raw.githubusercontent.com/neychev/made_nlp_course/master/datasets/commen
 
 ### ROC-CURVE
 
-![Датасет №1](Assets\roc_curve_№1.png)
-![Датасет №2](Assets\roc_curve_№2.png)
+![Датасет №1](Assets/roc_curve_№1.png)
+![Датасет №2](Assets/roc_curve_№2.png)
