@@ -16,6 +16,7 @@ DATASET_DIR_ST = os.path.join(BASE_DIR, "..","Datasets","image_style.jpg")
 
 
 
+
 class ModelStyle(nn.Module):
     def __init__(self):
         super().__init__()
